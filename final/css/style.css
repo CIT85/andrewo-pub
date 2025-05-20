@@ -408,6 +408,10 @@ footer p {
     color: #283618;
 }
 
+.contact {
+    position: relative;
+}
+
 /* | MOBILE: < 481px | */
 @media (max-width: 480px) {
 
