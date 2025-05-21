@@ -630,7 +630,7 @@ footer p {
     }
 
     nav ul {
-        font-size: 2rem;
+        font-size: 1rem;
         flex-direction: row;
         gap: 1rem;
     }
